@@ -2,7 +2,7 @@
 #Overview
 This is a sudoku solver written in Python that uses a backtracking algoritm. Download and run the graphical GUI (GUI2.PY) to play sudoku.
 
-#Features
+# Features
 - Interactive Gameplay: Users can click on cells to input numbers and solve Sudoku puzzles manually.
 - Automatic Solver: The program can automatically solve Sudoku puzzles using backtracking algorithm.
 - Visual Feedback: The GUI provides visual feedback on user inputs and the solving process.
@@ -17,7 +17,7 @@ This is a sudoku solver written in Python that uses a backtracking algoritm. Dow
 2. Automatic Solving
   - Press SPACE to let the program automatically solve the puzzle.
 
-#Installation
+# Installation
 To run the program locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/vhiii/sudokusolver.git
